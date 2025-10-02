@@ -42,7 +42,7 @@ Payments: Stripe (planned)
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/your-username/my-ecommerce-site.git
+
 cd my-ecommerce-site
 npm install   # or composer install if Laravel
 npm run dev   # start development server
