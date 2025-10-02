@@ -397,7 +397,7 @@ async def initialize_sample_data():
             "sizes": ["S", "M", "L", "XL", "XXL"],
             "colors": ["Black", "Grey", "Navy", "Red"],
             "stock": 75,
-            "featured": false
+            "featured": False
         },
         {
             "name": "Nike SuperRep Go",
